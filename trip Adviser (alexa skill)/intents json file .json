@@ -1,0 +1,52 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "trip adviser",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AboutIndia",
+                    "slots": [],
+                    "samples": [
+                        "india",
+                        "tell me about india",
+                        "about india"
+                    ]
+                },
+                {
+                    "name": "TouristPlaces",
+                    "slots": [],
+                    "samples": [
+                        "best places to visit in india",
+                        "tourist places",
+                        "places to visit in india ",
+                        "tourist places in india",
+                        "where should go in india"
+                    ]
+                },
+                {
+                    "name": "ShouldKnow",
+                    "slots": [],
+                    "samples": [
+                        "things to know before going to india ",
+                        "planing to visit india",
+                        "what should know before going to india",
+                        "what should know"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
